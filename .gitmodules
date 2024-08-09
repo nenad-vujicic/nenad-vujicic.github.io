@@ -1,0 +1,8 @@
+[submodule "17"]
+	path = 17
+	url = https://github.com/nenad-vujicic/osm-history.git
+	branch = issue_17_replace_counts
+[submodule "21"]
+	path = 21
+	url = https://github.com/nenad-vujicic/osm-history.git
+	branch = issue_21_incremental_display
